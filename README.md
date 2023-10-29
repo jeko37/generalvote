@@ -18,4 +18,14 @@ Once your block has been added, click on the settings icon (gear) located at the
 
 Select "Configure" to display the configuration panel, where you can define the title of your survey, the descriptive text and up to five different options for users to choose from.
 
+!(img/settings_screen.png)
+
+You have already created your first survey
+
+!(img/poll_screen.png)
+
+Once users start voting they will be able to see the results.
+
+!(img/poll_voted.png)
+
 NOTE: Once users have started voting you will not be able to change your block settings.
