@@ -3,7 +3,7 @@ Moodle plugin for create simple polls
 
 This is a simple plugin to create polls within the Moodle platform
 
-#Installation instructions
+## Installation instructions
 
 - Download this repository as a zip.
 - Go to Site Administration > Plugins > Install plugins, and upload your zip file.
@@ -12,4 +12,10 @@ This is a simple plugin to create polls within the Moodle platform
 
 You now have the new block added to your panel
 
-#Configuration
+## Configuration
+
+Once your block has been added, click on the settings icon (gear) located at the top right of your block to display the options menu.
+
+Select "Configure" to display the configuration panel, where you can define the title of your survey, the descriptive text and up to five different options for users to choose from.
+
+NOTE: Once users have started voting you will not be able to change your block settings.
