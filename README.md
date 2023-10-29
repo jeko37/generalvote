@@ -18,14 +18,14 @@ Once your block has been added, click on the settings icon (gear) located at the
 
 Select "Configure" to display the configuration panel, where you can define the title of your survey, the descriptive text and up to five different options for users to choose from.
 
-![Configuration screen](https://github.com/jeko37/generalvote/img/settings_screen.png)
+![Configuration screen](https://github.com/jeko37/generalvote/blob/main/img/settings_screen.png)
 
 You have already created your first survey
 
-![Poll screen](https://github.com/jeko37/generalvote/img/poll_screen.png)
+![Poll screen](https://github.com/jeko37/generalvote/blob/main/img/poll_screen.png)
 
 Once users start voting they will be able to see the results.
 
-![Voted screen](https://github.com/jeko37/generalvote/img/poll_voted.png)
+![Voted screen](https://github.com/jeko37/generalvote/blob/main/img/poll_voted.png)
 
 NOTE: Once users have started voting you will not be able to change your block settings.
