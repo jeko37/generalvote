@@ -24,7 +24,7 @@ You have already created your first survey
 
 ![Poll screen](https://github.com/jeko37/generalvote/blob/main/img/poll_screen.png)
 
-Once users start voting they will be able to see the results.
+Once users start voting they will be able to see the results
 
 ![Voted screen](https://github.com/jeko37/generalvote/blob/main/img/poll_voted.png)
 
